@@ -3,3 +3,4 @@ Disallow: /ThaiPoosam2011.html
 Disallow: /about.html
 Disallow: /poojai.html
 Disallow: /contactUs.html
+Disallow: /history.html
